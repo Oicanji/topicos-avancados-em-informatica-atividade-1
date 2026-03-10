@@ -1,4 +1,4 @@
-# Tópicos Avançados em Informática.
+,# Tópicos Avançados em Informática.
 Nessa atividade, todos do curso devem criar uma """branch""" própia, onde vocês devem editar este arquivo de instruções e colocar seu nome abaixo removendo um ou mais nomes na lisata abaixo.
 
 #Presentes:
